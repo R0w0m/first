@@ -22,6 +22,6 @@ Repository created 16 Sep. by Ramil Ziganshin
 
 	Вылезла ошибка т.к. ветки на GitHub(main) и в локаьном репозитории(master) отличаются. Для этого используем команду `git branch -M main` для переименования master => main
 
-	![image](./media/push_error.png)
+	![image](./media/push.png)
 
 5. Аналогично добавляем другие файлы.
