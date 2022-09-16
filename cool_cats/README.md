@@ -2,7 +2,6 @@
 ![image](photo_2022-09-16_19-38-25.jpg)
 ![image](photo_2022-09-16_19-38-36.jpg)
 ![image](photo_2022-09-16_19-38-38.jpg)
-![image](photo_2022-09-16_19-38-42.jpg)
 ![image](photo_2022-09-16_19-39-00.jpg)
 ![image](photo_2022-09-16_19-39-08.jpg)
 ![image](photo_2022-09-16_19-39-10.jpg)
